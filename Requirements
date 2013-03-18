@@ -1,7 +1,7 @@
 Requirements
 By Clement Hoang and Pavan Jakhu
 Purpose
-The purpose of this program is to solve a triangle based on side lengths and angles specified by the user. Once the triangle is solved, the program will display a menu of operation that the user can select from and perform.
+The purpose of this program is to solve a triangle based on side lengths and angles specified by the user. The program does this using a systematic approach using trigonometry, saving a lot of time and error for the user. Once the triangle is solved, the program will display a menu of operation that the user can select from and perform.
 	In order to solve the triangle, the program repeatedly prompts the user for side/angle, the letter that denotes the quantity, and the value of the side/angle until a combination that allows the triangle to be constructed is met (The conditions being a total of 3 angles/side lengths with the exception of AAAS). Then, the program will present a variety of operations that the user can choose from including outputting the triangle specifications, outputting the area, and outputting the perimeter. There is also an option that allows the user to change their specifications. When an option is selected, the program will output the solution. These operations will be continually presented until the user chooses to enter a new triangle, or to terminate the program.
 Requirements List
 	The program shall prompt the user for angles and side lengths until one of the conditions are met (no restrictive menu)
