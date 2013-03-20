@@ -1,4 +1,4 @@
-Grade-12-Projects
+Triangle Madness
 =================
 
-A humble beginning in my Software Engineering career.
+A program that will solve for the area, perimeter, and missing sides and angles of a triangle when given certain specifications.
